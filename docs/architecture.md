@@ -116,7 +116,7 @@ This repository is intentionally limited to project presentation and high-level 
 
 It does not contain:
 
-- Production source code
+- Private application source code
 - Private database schemas
 - Application credentials
 - Environment configuration
